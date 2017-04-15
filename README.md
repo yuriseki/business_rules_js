@@ -5,7 +5,7 @@ https://www.drupal.org/project/business_rules
 
 Copy this files and paste into \libraries\business_rules_js folder.
 
-##This files are the adaption of mxGraph to work into the Drupal module Business Rules.
+## This files are the adaption of mxGraph to work into the Drupal module Business Rules.
 
-##Original project:
+## Original project:
 https://github.com/jgraph/mxgraph
